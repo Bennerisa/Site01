@@ -1,0 +1,32 @@
+form {
+    /*
+    color: pink;
+    font-size: 35px;
+    font-family: Tahoma;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight:normal;
+    */
+    font: normal italic 35px Tahoma;
+    color: #ffffff;
+    color: rgb(7, 3, 12);
+    color: rgba(12, 4, 31, 0.);
+    background-color: black;
+    letter-spacing: 5px;
+    background-image: url('gato.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    opacity: 0.8;
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+    text-transform: capitalize;
+    text-align: justify;  
+    text-indent: 50px;
+    line-height: 35px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
